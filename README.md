@@ -1,1 +1,1 @@
-"# Advanced JavaScript (ES6)" 
+# Advanced JavaScript (ES)
